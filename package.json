@@ -118,7 +118,7 @@
     "modernizr": "gulp modernizr"
   },
   "dependencies": {
-    "jquery": "^1.11.1",
+    "jquery": "^3.5.0",
     "modernizr": "^3.5.0",
     "normalize.css": "^7.0.0"
   },
